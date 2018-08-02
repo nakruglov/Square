@@ -31,7 +31,5 @@ public class Rectangle {
     double getY1(){
         return y1;
     }
-    double getY2(){
-        return y2;
-    }
+    double getY2(){ return y2; }
 }
