@@ -19,6 +19,6 @@ public static Rectangle inputXY(){
 
 	    Rectangle r1 = inputXY();
 	    Rectangle r2 = inputXY();
-	System.out.println("s="+CrossSquare.getSquare(r1,r2));
+	System.out.println(" Площадь пересекающихся прямоугольников s="+CrossSquare.getSquare(r1,r2));
     }
 }
